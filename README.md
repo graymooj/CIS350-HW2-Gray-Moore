@@ -2,7 +2,7 @@
 Repository for personal CIS350 assignments
 # Jason Gray-Moore
 
-#interests
+# interests
 - I write software for an automatic guide vehicle at savant automation
 - I coach a robotics team 
 - I Changed from Mechatronics Egineering to Computer Egineering
