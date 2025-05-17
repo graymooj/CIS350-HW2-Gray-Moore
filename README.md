@@ -11,8 +11,5 @@ Repository for personal CIS350 assignments
 - I Made designed and coded a robot for class that competed and was top 3
 - I know C python and C#
 
-### Meme
 
-d.	A link to a picture of your favorite meme
-
-[https://www.instagram.com/p/Ci721Aareh1/?hl=en]
+* [Meme](https://www.instagram.com/p/Ci721Aareh1/?hl=en)
